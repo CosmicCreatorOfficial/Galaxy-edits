@@ -1,0 +1,53 @@
+.home {
+  font-family: system-ui;
+  background-image: url("https://media.istockphoto.com/id/157639696/photo/purple-space-stars.jpg?s=612x612&w=0&k=20&c=fkLtGZxUS9UPlLJUTeGjvvURT0u-vtxvj5sAYbDNrH4=");
+  justify-content: center;
+  color: white;
+  text-align: center;
+  height: 15cm;
+  margin-top: -2.3cm;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.sec1 {
+  background: linear-gradient(#301087 0%, #3065e3 100%);
+  text-align: center;
+  height: 16cm;
+  margin-left: -10px;
+  margin-right: -20px;
+  margin-top: -0.9px;
+}
+
+#text {
+  font-size: 1.6cm;
+  justify-content: center;
+}
+
+.menu {
+  position: fixed;
+  top: 0px;
+  z-index: 10;
+  width: 100%;
+  margin-top: 0px;
+  background: ;
+}
+
+.links {
+  display: inline;
+  color: #fff;
+  padding-left: 33px;
+  padding-right: 25px;
+  font-family: fantasy;
+  font-size: 20px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.article:hover {
+  color: aquamarine;
+}
+body {
+  text-align: center;
+}
